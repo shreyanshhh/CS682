@@ -1,6 +1,6 @@
 # SPEECH TO TEXT USING PYTHONISTA
 
-1) Create a new script with UI file in Pythonista and copy this code.
+1) Create a new script with UI file in Pythonista and copy speech_to_text.py code in the new script you created.
 2) Run the code in order to check if this works correctly
 3) Open the shortcuts app and create a new shortcut by clicking on the ‘+’ symbol on top right corner
 4) Then click on web and select open URL
