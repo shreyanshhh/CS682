@@ -1,0 +1,101 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{274, 34}, {161, 86}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "label1",
+          "border_width" : 5,
+          "corner_radius" : 20,
+          "frame" : "{{45, 104}, {150, 32}}",
+          "uuid" : "9B92070E-E8E2-4810-B19D-58DE4C77C55F",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Location",
+          "background_color" : "RGBA(0.818182,1.000000,1.000000,1.000000)",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{274, 180}, {161, 91}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "label2",
+          "border_width" : 5,
+          "corner_radius" : 20,
+          "frame" : "{{154, 103}, {150, 32}}",
+          "uuid" : "F5C44559-93D1-4DAA-830C-4FFC02ED2183",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "PVI SCORE",
+          "background_color" : "RGBA(0.818182,1.000000,1.000000,1.000000)",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{53, 34}, {161, 86}}",
+        "class" : "Label",
+        "attributes" : {
+          "border_width" : 5,
+          "font_size" : 18,
+          "font_name" : "<System>",
+          "frame" : "{{45, 104}, {150, 32}}",
+          "uuid" : "9B92070E-E8E2-4810-B19D-58DE4C77C55F",
+          "corner_radius" : 20,
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Location",
+          "name" : "label3",
+          "background_color" : "RGBA(0.818182,1.000000,1.000000,1.000000)"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{53, 185}, {161, 86}}",
+        "class" : "Label",
+        "attributes" : {
+          "border_width" : 5,
+          "font_size" : 18,
+          "font_name" : "<System>",
+          "frame" : "{{45, 104}, {150, 32}}",
+          "uuid" : "9B92070E-E8E2-4810-B19D-58DE4C77C55F",
+          "corner_radius" : 20,
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "PVI_Score",
+          "name" : "label4",
+          "background_color" : "RGBA(0.818182,1.000000,1.000000,1.000000)"
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {480, 320}}",
+    "class" : "View",
+    "attributes" : {
+      "name" : "PVI Value",
+      "enabled" : true,
+      "background_color" : "RGBA(0.606061,1.000000,0.868687,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
